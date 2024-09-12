@@ -1,4 +1,4 @@
-![logo](https://github.com/mostofa-rezvi/mostofa-rezvi/blob/main/github-contribution-grid-snake-dark.svg)
+<!-- ![logo](https://github.com/mostofa-rezvi/mostofa-rezvi/blob/main/github-contribution-grid-snake-dark.svg) -->
 
 <h1 align="center">Hi 👋, I'm Rezvi</h1> 
 <h4 align="center">Programming Learner</h4>
