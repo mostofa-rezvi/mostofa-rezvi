@@ -45,6 +45,21 @@
     </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api?username=shabab239&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="200">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api/top-langs/?username=shabab239&count_private=true&hide=html,css,javascript,scss,php&layout=compact&theme=radical&langs_count=4" alt="Top Langs" height="200">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">Hi 👋, I'm Rezvi</h1> 
 <h4 align="center">Programming Learner</h4>
 <div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
