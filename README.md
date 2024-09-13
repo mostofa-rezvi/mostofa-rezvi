@@ -19,10 +19,6 @@
         </td>
     </tr>
 </table> -->
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Md. Raju Ahmed"/></p>
-
-
   
 <h1 align="center">Hi 👋, I'm Rezvi</h1> 
 <h4 align="center">Programming Learner</h4>
@@ -128,9 +124,9 @@
     </a>
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostofa-rezvi)
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostofa-rezvi)
 
 
  &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mostofa-rezvi)
- <!--&nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mostofa-rezvi)--!>
+ &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mostofa-rezvi)--!>
  
