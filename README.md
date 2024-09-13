@@ -19,21 +19,10 @@
         </td>
     </tr>
 </table> -->
-
-<table>
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&theme=transparent" alt="GitHub Stats" height="200">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&theme=radical" alt="Top Langs" height="200">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Md. Raju Ahmed"/>
+    &nbsp; 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&locale=en&theme=radical" alt="Md. Raju Ahmed" /></p>
 
 
   
