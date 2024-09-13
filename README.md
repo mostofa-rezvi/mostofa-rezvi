@@ -7,11 +7,13 @@
 
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
-- 🌱 Currently I’m learning **under IsDB-BISEW Scholarship Project**
 
-- 🔭 Currently I’m learning **"Web & Mobile App Development" in (CCSL) Center for Computer Studies Ltd.**
+🌱 Currently learning Web & Mobile App Development through the IsDB-BISEW Scholarship Project at CCSL.
+
+🔭 Passionate Full-Stack Developer with a focus on Java, Spring Boot, Angular, and Flutter. Excited to build innovative solutions!
 
 - 📫 Reach me **mostofa.aminur.rezvi@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
