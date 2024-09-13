@@ -24,13 +24,6 @@
     <tr>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="left"
-                    src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact"
-                    alt="Mostofa Rezvi" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
                 <img align="center"
                     src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&locale=en"
                     alt="Mostofa Rezvi" />
