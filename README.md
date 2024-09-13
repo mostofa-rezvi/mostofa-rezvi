@@ -99,4 +99,7 @@
             alt="photoshop" width="40" height="40" />
     </a>
 </p>
- 
+
+<div>
+<a href='https://docs.github.com/en/developers'><img src='[https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif](https://github-readme-stats.vercel.app/api/wakatime?username=mostofa-rezvi)' width='40' height='40'></a> 
+ </div>
