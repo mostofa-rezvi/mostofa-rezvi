@@ -101,9 +101,9 @@
 </p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostofa-rezvi)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact" alt="mostofa-rezvi"/>
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&locale=en" alt="mostofa-rezvi" /></p>
-
- &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mostofa-rezvi)
- <!--&nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17)--!>
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact"
+        alt="mostofa-rezvi" />
+    &nbsp; <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&locale=en"
+        alt="mostofa-rezvi" /></p>
