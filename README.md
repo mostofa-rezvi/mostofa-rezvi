@@ -19,9 +19,9 @@
         </td>
     </tr>
 </table> -->
-  <p>
+ <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mostofa Rezvi"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&theme=transparent" alt="Mostofa Rezvi" /></p>
+</p>
 
 
   
