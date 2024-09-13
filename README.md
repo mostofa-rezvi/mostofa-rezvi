@@ -1,5 +1,26 @@
 <!-- ![logo](https://github.com/mostofa-rezvi/mostofa-rezvi/blob/main/github-contribution-grid-snake-dark.svg) -->
 
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="left"
+                    src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact"
+                    alt="Mostofa Rezvi" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img align="center"
+                    src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&locale=en"
+                    alt="Mostofa Rezvi" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+
 <h1 align="center">Hi 👋, I'm Rezvi</h1> 
 <h4 align="center">Programming Learner</h4>
 <div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
