@@ -24,12 +24,12 @@
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api?username=mostofa-rezvi&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" height="200">
+          <img src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&theme=transparent" alt="GitHub Stats" height="200">
         </a>
       </td>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-shabab-ahmeds-projects-847bf735.vercel.app/api/top-langs/?username=mostofa-rezvi&count_private=true&hide=html,css,javascript,scss,php&layout=compact&theme=radical&langs_count=4" alt="Top Langs" height="200">
+          <img src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&theme=radical" alt="Top Langs" height="200">
         </a>
       </td>
     </tr>
