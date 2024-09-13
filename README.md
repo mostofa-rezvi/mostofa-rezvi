@@ -1,25 +1,3 @@
-<!-- ![logo](https://github.com/mostofa-rezvi/mostofa-rezvi/blob/main/github-contribution-grid-snake-dark.svg) -->
-
-<!--
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="left"
-                    src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact"
-                    alt="Mostofa Rezvi" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img align="center"
-                    src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&locale=en"
-                    alt="Mostofa Rezvi" />
-            </a>
-        </td>
-    </tr>
-</table> -->
-  
 <h1 align="center">Hi 👋, I'm Rezvi</h1> 
 <h4 align="center">Programming Learner</h4>
 <div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-rezvi&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-rezvi" /> </p></div>
@@ -32,7 +10,6 @@
 🔭 Passionate Full-Stack Developer with a focus on Java, Spring Boot, Angular, and Flutter. Excited to build innovative solutions!
 
 - 📫 Reach me **mostofa.aminur.rezvi@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -122,10 +99,4 @@
             alt="photoshop" width="40" height="40" />
     </a>
 </p>
-
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostofa-rezvi)
-
-
- &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mostofa-rezvi)
- &nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mostofa-rezvi)--!>
  
