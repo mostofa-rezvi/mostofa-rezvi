@@ -100,6 +100,6 @@
     </a>
 </p>
 
-<div>
-<a href='https://docs.github.com/en/developers'><img src='[https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif](https://github-readme-stats.vercel.app/api/wakatime?username=mostofa-rezvi)' width='40' height='40'></a> 
- </div>
+
+<div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-rezvi&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-rezvi" /> </p></div>
