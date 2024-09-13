@@ -22,8 +22,7 @@
   
 <h1 align="center">Hi 👋, I'm Rezvi</h1> 
 <h4 align="center">Programming Learner</h4>
-<div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-rezvi&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-rezvi" /> </p></div>
+<div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-rezvi&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-rezvi" /> </p></div>
 
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
