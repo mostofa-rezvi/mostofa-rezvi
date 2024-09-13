@@ -101,5 +101,9 @@
 </p>
 
 
-<div><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostofa-rezvi&label=Profile%20views&color=0e75b6&style=flat" alt="mostofa-rezvi" /> </p></div>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostofa-rezvi)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact" alt="mostofa-rezvi"/>
+&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&locale=en" alt="mostofa-rezvi" /></p>
+
+ &nbsp;![GitHub streak stats](https://streak-stats.demolab.com/?user=mostofa-rezvi)
+ <!--&nbsp;![GitHub metrics](https://metrics.lecoq.io/insights/mrahmed17)--!>
