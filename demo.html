@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Interactive 2026 Contributions Demo</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #0d1117;
+    color: #c9d1d9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+  }
+
+  h1 {
+    color: #58a6ff;
+    text-align: center;
+  }
+
+  .contributions {
+    display: grid;
+    grid-template-columns: repeat(52, 14px); /* 52 weeks */
+    grid-auto-rows: 14px;
+    gap: 2px;
+    margin-top: 2rem;
+  }
+
+  .day {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    background-color: #161b22; /* off / no contribution */
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+
+  .day.active {
+    background-color: orange; /* on */
+  }
+
+  .legend {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .legend div {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+  }
+</style>
+</head>
+<body>
+
+<h1>💡 2026 Contributions Interactive Demo</h1>
+<h3><p>Focusing on building impactful open-source projects in Java, Spring Boot, and Flutter</p></h3>
+<p>Click on any box to toggle contribution (orange = active, black = off)</p>
+
+<div class="contributions" id="contributions"></div>
+
+<div class="legend">
+  <div style="background-color: orange;"></div><span>Active (On)</span>
+  <div style="background-color: #161b22;"></div><span>Inactive (Off)</span>
+</div>
+
+<script>
+const container = document.getElementById('contributions');
+const totalDays = 365;
+
+// Create 365 boxes
+for(let day=0; day<totalDays; day++){
+  const box = document.createElement('div');
+  box.classList.add('day');
+
+  // Toggle color on click
+  box.addEventListener('click', () => {
+    box.classList.toggle('active');
+  });
+
+  container.appendChild(box);
+}
+</script>
+
+</body>
+</html>
