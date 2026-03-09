@@ -5,9 +5,21 @@
 <img src="giphy.gif" alt="coding" align="right" width="300px" height="200px">
 
 
-🌱 Currently learning Web & Mobile App Development through the IsDB-BISEW Scholarship Project at CCSL.
+💼 Currently working as a **Flutter Developer** at an IT company, building scalable mobile applications.
 
-🔭 Passionate Full-Stack Developer with a focus on Java, Spring Boot, Angular, and Flutter. Excited to build innovative solutions!
+🌱 Continuously improving my skills in **Full-Stack Development and Complex Problem Solving**.
+
+🔭 Passionate about developing modern applications using **Java, Spring Boot, Angular, Flutter, and Node.js**.
+
+⚡ Experienced with **Flutter BLoC State Management**, REST APIs, and cross-platform mobile development.
+
+🧠 Exploring **Artificial Intelligence**, including **Neural Networks and Deep Learning**.
+
+🛠 Tech Stack & Skills:
+**Java, Spring Boot, Angular, Flutter, Android, Node.js (Express), React, Laravel, Python, BLoC State Management, REST APIs, Neural Networks, Deep Learning**
+
+🌍 Open to **work and employment opportunities** — office, remote, or relocation.
+
 
 - 📫 Reach me **mostofa.aminur.rezvi@gmail.com**
 
