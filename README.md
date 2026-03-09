@@ -3,7 +3,7 @@
 # 🌟 Hi there, I'm Mostofa Rezvi 🌟
 ### 🚀 Full Stack Developer | Flutter Specialist | AI Enthusiast
 
-![Mostofa Rezvi Banner](github_profile_banner.png)
+![Mostofa Rezvi Banner](rezvi_github_profile_banner.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Building+Seamless+Mobile+Apps;Solving+Complex+Logic;Full+Stack+Wizardry;AI+%26+Deep+Learning+Explorer)](https://git.io/typing-svg)
 
