@@ -104,10 +104,6 @@ I am a dedicated **Software Engineer** with a passion for building robust and sc
 
 <div align="center">
 
-| **Core Stats** | **Most Used Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="400px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa-rezvi&layout=compact&theme=radical&border_radius=10" width="400px" /> |
-
 | **Commit Streak** |
 | :---: |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-rezvi&theme=radical&border_radius=10" width="815px" /> |
