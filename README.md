@@ -100,6 +100,14 @@
     </a>
 </p>
 
+### Connect with Me
+
+| Streak | Platform | Platform | Platform | Platform |
+| ------ | -------- | -------- | -------- | -------- |
+| ![MRAhmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostofa-rezvi&theme=dark&hide_border=false) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://linkedin.com/in/mostofa-aminur) |
+
+![logo](https://github.com/mrahmed17/mrahmed17/blob/main/github-contribution-grid-snake-dark.svg)
+
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact"
