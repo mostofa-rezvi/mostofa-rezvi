@@ -11,11 +11,6 @@
 
 - 📫 Reach me **mostofa.aminur.rezvi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-<a href="https://linkedin.com/in/mostofa-rezvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostofa Rezvi" height="30" width="40" /></a> 
-<a href="https://youtube.com/@MostofaRezvi316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -104,9 +99,4 @@
 
 | Streak | Platform | Platform | Platform | Platform |
 | ------ | -------- | -------- | -------- | -------- |
-| ![MRAhmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostofa-rezvi&theme=dark&hide_border=false) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://linkedin.com/in/mostofa-aminur) |
-
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mostofa-rezvi&show_icons=true&locale=en&layout=compact"
-        alt="mostofa-rezvi" />
-    &nbsp; </p>
+| ![MRAhmed17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostofa-rezvi&theme=dark&hide_border=false) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mostofa Rezvi" height="30" width="40" /> ](https://linkedin.com/in/mostofa-aminur) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />](https://youtube.com/@MostofaRezvi316) |
