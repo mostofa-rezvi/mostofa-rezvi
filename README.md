@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Hi there, I'm Mostofa Rezvi 🌟
+#  Hi there, I'm Mostofa Rezvi 🌟
 ### 🚀 Full Stack Developer | Flutter Specialist | AI Enthusiast
 
 ![Mostofa Rezvi Banner](rezvi_github_profile_banner.png)
@@ -28,18 +28,18 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I am a dedicated **Software Engineer** with a passion for building robust and scalable applications. Currently, I'm focusing my professional efforts on **Flutter Development** while expanding my horizon in **Full Stack Architecture** and **Deep Learning**. I thrive in environments that challenge my problem-solving skills and allow me to innovate.
 
-- 🔭 **Now Breathing:** Flutter, Dart, Java, and Spring Boot.
-- ⚡ **Superpowers:** Complex Problem Solving, Clean Code Architecture, State Management (BLoC).
-- 🧠 **Researching:** Neural Networks and their practical applications in mobile ecosystems.
-- 🎯 **Looking For:** Impactful roles in mobile development or full-stack engineering (Remote/Global).
-- 💬 **Ask Me About:** Why Flutter is awesome or how to optimize backend APIs.
+-  **Now Breathing:** Flutter, Dart, Java, and Spring Boot.
+-  **Superpowers:** Complex Problem Solving, Clean Code Architecture, State Management (BLoC).
+-  **Researching:** Neural Networks and their practical applications in mobile ecosystems.
+-  **Looking For:** Impactful roles in mobile development or full-stack engineering (Remote/Global).
+-  **Ask Me About:** Why Flutter is awesome or how to optimize backend APIs.
 
 ---
 
-### 🛠️ My Tech Toolbox
+###  My Tech Toolbox
 
 <details open>
 <summary><b>📱 Mobile Development</b></summary>
@@ -100,7 +100,7 @@ I am a dedicated **Software Engineer** with a passion for building robust and sc
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 
@@ -116,7 +116,7 @@ I am a dedicated **Software Engineer** with a passion for building robust and sc
 
 ---
 
-### 🎨 Design Credits
+###  Design Credits
 This README was designed with ❤️ to showcase professional excellence. 
 
 <p align="center">
