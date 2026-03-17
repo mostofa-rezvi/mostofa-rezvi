@@ -1,7 +1,7 @@
 <div align="center">
 
 #  Hi there, I'm Mostofa Rezvi 🌟
-### 🚀 Full Stack Developer | Flutter Specialist | AI Enthusiast
+###  Full Stack Developer | Flutter Specialist | AI Enthusiast
 
 ![Mostofa Rezvi Banner](rezvi_github_profile_banner.png)
 
