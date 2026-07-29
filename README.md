@@ -12,6 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Building+Seamless+Mobile+Apps;Solving+Complex+Logic;Full+Stack+Wizardry;AI+%26+Deep+Learning+Explorer)](https://git.io/typing-svg)
 
 ---
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
 <p align="center">
   <a href="https://linkedin.com/in/mostofa-aminur" target="_blank">
