@@ -33,14 +33,8 @@
 
 ---
 
-###  About Me
-I am a dedicated **Software Engineer** with a passion for building robust and scalable applications. Currently, I'm focusing my professional efforts on **Flutter Development** while expanding my horizon in **Full Stack Architecture** and **Deep Learning**. I thrive in environments that challenge my problem-solving skills and allow me to innovate.
 
--  **Now Breathing:** Flutter, Dart, Java, and Spring Boot.
--  **Superpowers:** Complex Problem Solving, Clean Code Architecture, State Management (BLoC).
--  **Researching:** Neural Networks and their practical applications in mobile ecosystems.
--  **Looking For:** Impactful roles in mobile development or full-stack engineering (Remote/Global).
--  **Ask Me About:** Why Flutter is awesome or how to optimize backend APIs.
+
 
 
 
@@ -52,108 +46,99 @@ I am a dedicated **Software Engineer** with a passion for building robust and sc
 
 
 # Mostofa Rezvi
-### Software Engineer | Flutter · Backend · Full-Stack Development
+**Software Engineer | Flutter · Next.js · Node.js**
 
-I build mobile and web applications with a focus on maintainable architecture, reliable data handling, and practical solutions to real-world problems.
+I develop mobile and web applications, working across frontend interfaces, backend services, and API integration. My primary focus is Flutter for mobile development and Next.js and Node.js for web applications and backend systems.
 
-My primary focus is **Flutter development**, with experience across backend services and web technologies. I also work with AI-powered development tools to improve implementation speed while keeping code quality, architecture, and testing under control.
+I care about maintainable code, clear separation of concerns, reliable data flows, and software that solves actual problems. I also use AI-assisted development tools as part of my workflow, with an emphasis on understanding, reviewing, and validating the code they produce.
 
-- **Currently working with:** Flutter, Dart, Node.js, NestJS, Next.js, React, Spring Boot, and Angular
-- **Mobile engineering:** BLoC, API integration, local persistence, and offline-first application design
-- **Backend engineering:** REST APIs, business logic, database integration, and application architecture
-- **Development workflow:** Git, Docker, API testing, and AI-assisted coding with Claude, Codex, Gemini, and GitHub Copilot
-- **Interests:** Scalable application architecture, developer tooling, and applied machine learning
-- **Open to:** Software engineering opportunities, remote roles, and technically challenging projects
+**Current focus**
+- Mobile application development with Flutter and Dart
+- Full-stack web development with Next.js, React, Node.js, and TypeScript
+- REST API design, backend integration, and database-driven applications
+- Application architecture, state management, and offline-first data handling
+
+**Additional experience and interests:** Java and Spring Boot, Go, Docker, and applied machine learning.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 ### Mobile Development
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/BLoC-20232A?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/BLoC-20232A?style=flat-square&logo=flutter&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+</p>
+
+### Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### Backend Development
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
 </p>
 
-### Frontend Development
-
+### Databases & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-### Databases & Infrastructure
-
+### AI-Assisted Development
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-### AI-Assisted Development & Machine Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Deep_Learning-Research-6A5ACD?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
 ---
 
-## Featured Work
+## Selected Project
 
 ### Takar Hisab
-A business management application focused on sales, inventory, transactions, and day-to-day shop operations.
+A business management application for shop operations, including sales, inventory, transactions, and reporting.
 
-**Focus areas:** Flutter, BLoC, API integration, local persistence, and offline-first workflows.
+**Engineering focus:** Flutter, BLoC, API integration, local data persistence, and offline-first application workflows.
 
-Explore my repositories for more projects and implementation details.
-
----
-
-## Engineering Principles
-
-- Keep business logic separate from presentation.
-- Prefer readable, maintainable code over unnecessary abstraction.
-- Treat data consistency, error handling, and edge cases as core requirements.
-- Design APIs and application state around predictable behavior.
-- Use AI coding tools as part of the development workflow, not as a substitute for engineering judgment.
+Explore my pinned repositories for project code, implementation details, and other work.
 
 ---
 
-## Connect
+## Engineering Approach
 
-<p align="left">
-  <a href="https://github.com/mostofa-rezvi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- Maintain clear boundaries between UI, business logic, and data layers.
+- Build predictable state management and robust API integrations.
+- Account for offline operation, synchronization, and data consistency.
+- Favor maintainability and straightforward solutions over unnecessary complexity.
+- Use AI coding assistants to accelerate development while retaining responsibility for implementation quality.
+
+---
+
+## Find Me on GitHub
+
+[**github.com/mostofa-rezvi**](https://github.com/mostofa-rezvi)
+
 
 
 
