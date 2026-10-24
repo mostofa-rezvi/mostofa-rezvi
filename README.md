@@ -56,45 +56,45 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 ### Mobile Development
 
 <p align="left">
-  <a href="https://flutter.dev/" title="Flutter documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="40" alt="Flutter" /></a>
-  <a href="https://dart.dev/" title="Dart documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" height="40" alt="Dart" /></a>
-  <a href="https://developer.android.com/" title="Android documentation" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" width="40" alt="Android" /></a>
-  <a href="https://bloclibrary.dev/" title="BLoC documentation" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BLoC-00BFA5?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="BLoC" /></a>
+  <a href="https://flutter.dev/" title="Flutter" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="40" alt="Flutter" /></a>
+  <a href="https://dart.dev/" title="Dart" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" height="40" alt="Dart" /></a>
+  <a href="https://developer.android.com/" title="Android" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" width="40" alt="Android" /></a>
+  <a href="https://bloclibrary.dev/" title="BLoC" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BLoC-00BFA5?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="BLoC" /></a>
 </p>
 
 ### Web Development
 
 <p align="left">
-  <a href="https://nextjs.org/docs" title="Next.js documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40" alt="Next.js" /></a>
-  <a href="https://react.dev/" title="React documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" /></a>
-  <a href="https://www.typescriptlang.org/docs/" title="TypeScript documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript" /></a>
-  <a href="https://nuxt.com/docs" title="Nuxt documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" height="40" alt="Nuxt" /></a>
-  <a href="https://angular.dev/overview" title="Angular documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=angular&theme=dark" height="40" alt="Angular" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS3" /></a>
+  <a href="https://nextjs.org/docs" title="Next.js" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40" alt="Next.js" /></a>
+  <a href="https://react.dev/" title="React" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" /></a>
+  <a href="https://www.typescriptlang.org/docs/" title="TypeScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript" /></a>
+  <a href="https://nuxt.com/docs" title="Nuxt" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" height="40" alt="Nuxt" /></a>
+  <a href="https://angular.dev/overview" title="Angular" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=angular&theme=dark" height="40" alt="Angular" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS3" /></a>
 </p>
 
 ### Backend Development
 
 <p align="left">
-  <a href="https://nodejs.org/docs" title="Node.js documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node.js" /></a>
-  <a href="https://docs.nestjs.com/" title="NestJS documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40" alt="NestJS" /></a>
-  <a href="https://expressjs.com/" title="Express.js documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="40" alt="Express.js" /></a>
-  <a href="https://docs.oracle.com/en/java/" title="Java documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" /></a>
-  <a href="https://docs.spring.io/spring-boot/index.html" title="Spring Boot documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" alt="Spring Boot" /></a>
-  <a href="https://go.dev/doc/" title="Go documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="40" alt="Go" /></a>
+  <a href="https://nodejs.org/docs" title="Node.js" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node.js" /></a>
+  <a href="https://docs.nestjs.com/" title="NestJS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40" alt="NestJS" /></a>
+  <a href="https://expressjs.com/" title="Express.js" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="40" alt="Express.js" /></a>
+  <a href="https://docs.oracle.com/en/java/" title="Java" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" /></a>
+  <a href="https://docs.spring.io/spring-boot/index.html" title="Spring Boot" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" alt="Spring Boot" /></a>
+  <a href="https://go.dev/doc/" title="Go" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="40" alt="Go" /></a>
 </p>
 
 ### Databases & Development Tools
 
 <p align="left">
-  <a href="https://dev.mysql.com/doc/" title="MySQL documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL" /></a>
-  <a href="https://www.sqlite.org/docs.html" title="SQLite documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="40" alt="SQLite" /></a>
-  <a href="https://firebase.google.com/docs" title="Firebase documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40" alt="Firebase" /></a>
-  <a href="https://docs.docker.com/" title="Docker documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" alt="Docker" /></a>
-  <a href="https://git-scm.com/doc" title="Git documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" /></a>
-  <a href="https://learning.postman.com/docs/" title="Postman documentation" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman" /></a>
+  <a href="https://dev.mysql.com/doc/" title="MySQL" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL" /></a>
+  <a href="https://www.sqlite.org/docs.html" title="SQLite" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="40" alt="SQLite" /></a>
+  <a href="https://firebase.google.com/docs" title="Firebase" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40" alt="Firebase" /></a>
+  <a href="https://docs.docker.com/" title="Docker" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" alt="Docker" /></a>
+  <a href="https://git-scm.com/doc" title="Git" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" /></a>
+  <a href="https://learning.postman.com/docs/" title="Postman" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman" /></a>
 </p>
 
 ### AI-Assisted Development
