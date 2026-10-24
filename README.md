@@ -7,11 +7,9 @@
 
 ###  Full Stack Developer | Flutter Specialist | AI Enthusiast
 
-![Mostofa Rezvi Banner](rezvi_github_profile_banner.png)
+<img width="2056" height="765" alt="Neon Blue Full Stack Portfolio Banner" src="https://github.com/user-attachments/assets/e5639b9b-e871-4c8f-8468-9ae4f5b36bd3" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Building+Seamless+Mobile+Apps;Solving+Complex+Logic;Full+Stack+Wizardry;AI+%26+Deep+Learning+Explorer)](https://git.io/typing-svg)
-
-<img width="2056" height="765" alt="Neon Blue Full Stack Portfolio Banner" src="https://github.com/user-attachments/assets/e5639b9b-e871-4c8f-8468-9ae4f5b36bd3" />
 
 ---
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
