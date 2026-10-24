@@ -42,6 +42,135 @@ I am a dedicated **Software Engineer** with a passion for building robust and sc
 -  **Looking For:** Impactful roles in mobile development or full-stack engineering (Remote/Global).
 -  **Ask Me About:** Why Flutter is awesome or how to optimize backend APIs.
 
+
+
+
+
+
+
+
+
+
+# Mostofa Rezvi
+### Software Engineer | Flutter · Backend · Full-Stack Development
+
+I build mobile and web applications with a focus on maintainable architecture, reliable data handling, and practical solutions to real-world problems.
+
+My primary focus is **Flutter development**, with experience across backend services and web technologies. I also work with AI-powered development tools to improve implementation speed while keeping code quality, architecture, and testing under control.
+
+- **Currently working with:** Flutter, Dart, Node.js, NestJS, Next.js, React, Spring Boot, and Angular
+- **Mobile engineering:** BLoC, API integration, local persistence, and offline-first application design
+- **Backend engineering:** REST APIs, business logic, database integration, and application architecture
+- **Development workflow:** Git, Docker, API testing, and AI-assisted coding with Claude, Codex, Gemini, and GitHub Copilot
+- **Interests:** Scalable application architecture, developer tooling, and applied machine learning
+- **Open to:** Software engineering opportunities, remote roles, and technically challenging projects
+
+---
+
+## Tech Stack
+
+### Mobile Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/BLoC-20232A?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
+</p>
+
+### Backend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+### AI-Assisted Development & Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Research-6A5ACD?style=for-the-badge" alt="Deep Learning" />
+</p>
+
+---
+
+## Featured Work
+
+### Takar Hisab
+A business management application focused on sales, inventory, transactions, and day-to-day shop operations.
+
+**Focus areas:** Flutter, BLoC, API integration, local persistence, and offline-first workflows.
+
+Explore my repositories for more projects and implementation details.
+
+---
+
+## Engineering Principles
+
+- Keep business logic separate from presentation.
+- Prefer readable, maintainable code over unnecessary abstraction.
+- Treat data consistency, error handling, and edge cases as core requirements.
+- Design APIs and application state around predictable behavior.
+- Use AI coding tools as part of the development workflow, not as a substitute for engineering judgment.
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://github.com/mostofa-rezvi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ###  My Tech Toolbox
