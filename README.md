@@ -3,7 +3,7 @@
 
 <div align="center">
   
-#  Hi there, I'm Mostofa Rezvi 🌟
+#  Hi there, I'm Mostofa Rezvi
 
 ###  Full Stack Developer | Flutter Specialist | AI Enthusiast
 
