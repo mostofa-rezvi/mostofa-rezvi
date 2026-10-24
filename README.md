@@ -56,90 +56,51 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 ### Mobile Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="36" height="36" alt="Flutter" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="36" height="36" alt="Dart" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="36" height="36" alt="Android" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bloc/bloc-original.svg" width="36" height="36" alt="BLoC" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android&theme=dark" alt="Flutter, Dart, Android" />
+  <a href="https://bloclibrary.dev/" title="BLoC">
+    <img src="https://img.shields.io/badge/BLoC-00BFA5?style=for-the-badge&logo=flutter&logoColor=white" height="48" alt="BLoC" />
+  </a>
 </p>
 
 ### Web Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" width="36" height="36" alt="Nuxt" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="36" height="36" alt="Angular" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nuxtjs,angular,html,css&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Nuxt, Angular, HTML5, CSS3" />
 </p>
 
 ### Backend Development
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" height="36" alt="Express.js" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" alt="Java" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36" height="36" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring,go&theme=dark" alt="Node.js, NestJS, Express, Java, Spring, Go" />
 </p>
 
 ### Databases & Development Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,docker,git,postman&theme=dark" alt="MySQL, SQLite, Firebase, Docker, Git, Postman" />
 </p>
 
 ### AI-Assisted Development
 
 <p align="left">
   <a href="https://claude.ai/code" title="Claude Code">
-    <img src="https://cdn.simpleicons.org/claude/D97757" width="36" height="36" alt="Claude Code" />
+    <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="32" alt="Claude Code" />
   </a>
-  &nbsp;
   <a href="https://openai.com/codex/" title="OpenAI Codex">
-    <img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI Codex" />
+    <img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI Codex" />
   </a>
-  &nbsp;
   <a href="https://gemini.google.com/" title="Google Gemini">
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="36" height="36" alt="Gemini" />
+    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="32" alt="Google Gemini" />
   </a>
-  &nbsp;
   <a href="https://github.com/features/copilot" title="GitHub Copilot">
-    <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="36" height="36" alt="GitHub Copilot" />
+    <img src="https://img.shields.io/badge/GitHub_Copilot-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white" height="32" alt="GitHub Copilot" />
   </a>
 </p>
 
 ---
 
 <!-- Profile: https://github.com/mostofa-rezvi -->
+
 
 ---
 
