@@ -43,17 +43,17 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 
 ### Current Focus
 
-- 📱 Mobile application development with Flutter and Dart.
-- 🌐 Full-stack web development with Next.js, React, Node.js, and TypeScript.
-- ⚙️ REST API development and backend architecture.
-- 🗄️ Database-driven applications and offline-first data handling.
-- 🤖 AI-assisted software engineering and applied machine learning.
+- Mobile application development with Flutter and Dart.
+- Full-stack web development with Next.js, React, Node.js, and TypeScript.
+- REST API development and backend architecture.
+- Database-driven applications and offline-first data handling.
+- AI-assisted software engineering and applied machine learning.
 
 **Additional experience and interests:** Java, Spring Boot, Go, Docker, and applied machine learning.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Mobile Development
 
@@ -111,7 +111,7 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -133,10 +133,6 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa-rezvi&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
-### Contribution Calendar
-
-<img width="100%" src="https://ghchart.rshah.org/00D1FF/mostofa-rezvi" alt="GitHub Contribution Calendar"/>
-
 ### Repository Language Statistics
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostofa-rezvi&theme=github_dark" alt="Languages by Repository"/>
@@ -157,7 +153,7 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -171,7 +167,7 @@ Explore more projects: [GitHub Repositories](https://github.com/mostofa-rezvi?ta
 
 ---
 
-## 📈 Development Philosophy
+## Development Philosophy
 
 - Write clean, maintainable, and readable code.
 - Build applications around real-world problems.
@@ -207,7 +203,7 @@ Explore more projects: [GitHub Repositories](https://github.com/mostofa-rezvi?ta
 
 <img src="https://komarev.com/ghpvc/?username=mostofa-rezvi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
-### 💡 Developer Quote
+### Developer Quote
 
 *"Simplicity is the soul of efficiency."* — Austin Freeman
 
