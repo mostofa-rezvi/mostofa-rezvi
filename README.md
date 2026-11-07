@@ -51,7 +51,7 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 
 ---
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 ### Mobile Development
 
@@ -162,7 +162,7 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -182,16 +182,6 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 ### 🔥 Contribution Streak
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-rezvi&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
-
-### 📅 Contribution Activity Graph
-
-<a href="https://github.com/mostofa-rezvi">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa-rezvi&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
-</a>
-
-### 🗓️ Contribution Calendar
-
-<img width="100%" src="https://ghchart.rshah.org/00D1FF/mostofa-rezvi" alt="GitHub Contribution Calendar"/>
 
 ### 💻 Programming Language Analytics
 
@@ -213,21 +203,7 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-Explore my projects and repositories:
-
-<a href="https://github.com/mostofa-rezvi?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
-</a>
-
-</div>
-
----
-
-# 💡 Development Philosophy
+# Development Philosophy
 
 - Write clean, maintainable, and readable code.
 - Build applications around real-world problems.
