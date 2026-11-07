@@ -1,32 +1,31 @@
+# 🇵🇸 Stand With Palestine
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 <div align="center">
-  
-#  Hi there, I'm Mostofa Rezvi
 
-###  Full Stack Developer | Flutter Specialist | AI Enthusiast
+# Hi there, I'm Mostofa Rezvi
 
-<img width="2056" height="765" alt="Neon Blue Full Stack Portfolio Banner" src="https://github.com/user-attachments/assets/e5639b9b-e871-4c8f-8468-9ae4f5b36bd3" />
+### Software Engineer | Flutter Specialist | Full Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Building+Seamless+Mobile+Apps;Solving+Complex+Logic;Full+Stack+Wizardry;AI+%26+Deep+Learning+Explorer)](https://git.io/typing-svg)
+<img width="100%" src="https://github.com/user-attachments/assets/e5639b9b-e871-4c8f-8468-9ae4f5b36bd3" alt="Mostofa Rezvi - Developer Portfolio Banner" />
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=Building+Mobile+Applications;Developing+Full+Stack+Solutions;Engineering+Scalable+Software;Exploring+AI+%26+Emerging+Technologies)](https://git.io/typing-svg)
 
 [![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
 
 <p align="center">
-  <a href="https://linkedin.com/in/mostofa-aminur" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/mostofa-aminur">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mostofa.aminur.rezvi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://youtube.com/@MostofaRezvi316" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://youtube.com/@MostofaRezvi316">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Status-Open_To_Work-green?style=for-the-badge" alt="Open to Work">
+  <a href="https://github.com/mostofa-rezvi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -34,108 +33,186 @@
 
 ---
 
-# Mostofa Rezvi
+# 👨‍💻 About Me
+
 **Software Engineer | Flutter · Next.js · Node.js**
 
 I develop mobile and web applications, working across frontend interfaces, backend services, and API integration. My primary focus is Flutter for mobile development and Next.js and Node.js for web applications and backend systems.
 
 I care about maintainable code, clear separation of concerns, reliable data flows, and software that solves actual problems. I also use AI-assisted development tools as part of my workflow, with an emphasis on understanding, reviewing, and validating the code they produce.
 
-**Current focus**
-- Mobile application development with Flutter and Dart
-- Full-stack web development with Next.js, React, Node.js, and TypeScript
-- REST API design, backend integration, and database-driven applications
-- Application architecture, state management, and offline-first data handling
+### Current Focus
 
-**Additional experience and interests:** Java and Spring Boot, Go, Docker, and applied machine learning.
+- 📱 Mobile application development with Flutter and Dart.
+- 🌐 Full-stack web development with Next.js, React, Node.js, and TypeScript.
+- ⚙️ REST API development and backend architecture.
+- 🗄️ Database-driven applications and offline-first data handling.
+- 🤖 AI-assisted software engineering and applied machine learning.
+
+**Additional experience and interests:** Java, Spring Boot, Go, Docker, and applied machine learning.
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 ### Mobile Development
 
 <p align="left">
-  <a href="https://flutter.dev/" title="Flutter" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="40" alt="Flutter" /></a>
-  <a href="https://dart.dev/" title="Dart" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=dart&theme=dark" height="40" alt="Dart" /></a>
-  <a href="https://developer.android.com/" title="Android" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="40" width="40" alt="Android" /></a>
-  <a href="https://bloclibrary.dev/" title="BLoC" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/BLoC-00BFA5?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="BLoC" /></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="40" alt="Flutter"/></a>
+  <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart&theme=dark" height="40" alt="Dart"/></a>
+  <a href="https://developer.android.com/"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="40" alt="Android Studio"/></a>
+  <img src="https://img.shields.io/badge/BLoC-00BFA5?style=for-the-badge&logo=flutter&logoColor=white" height="30" alt="BLoC"/>
 </p>
 
 ### Web Development
 
 <p align="left">
-  <a href="https://nextjs.org/docs" title="Next.js" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40" alt="Next.js" /></a>
-  <a href="https://react.dev/" title="React" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React" /></a>
-  <a href="https://www.typescriptlang.org/docs/" title="TypeScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript" /></a>
-  <a href="https://nuxt.com/docs" title="Nuxt" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" height="40" alt="Nuxt" /></a>
-  <a href="https://angular.dev/overview" title="Angular" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=angular&theme=dark" height="40" alt="Angular" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS3" /></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="40" alt="Next.js"/></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40" alt="React"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="40" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript"/></a>
+  <a href="https://nuxt.com/"><img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" height="40" alt="Nuxt"/></a>
+  <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular&theme=dark" height="40" alt="Angular"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS"/></a>
 </p>
 
 ### Backend Development
 
 <p align="left">
-  <a href="https://nodejs.org/docs" title="Node.js" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node.js" /></a>
-  <a href="https://docs.nestjs.com/" title="NestJS" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40" alt="NestJS" /></a>
-  <a href="https://expressjs.com/" title="Express.js" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="40" alt="Express.js" /></a>
-  <a href="https://docs.oracle.com/en/java/" title="Java" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java" /></a>
-  <a href="https://docs.spring.io/spring-boot/index.html" title="Spring Boot" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" alt="Spring Boot" /></a>
-  <a href="https://go.dev/doc/" title="Go" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="40" alt="Go" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" alt="Node.js"/></a>
+  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" height="40" alt="NestJS"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="40" alt="Express.js"/></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" alt="Spring Boot"/></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=dark" height="40" alt="Go"/></a>
 </p>
 
 ### Databases & Development Tools
 
 <p align="left">
-  <a href="https://dev.mysql.com/doc/" title="MySQL" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL" /></a>
-  <a href="https://www.sqlite.org/docs.html" title="SQLite" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="40" alt="SQLite" /></a>
-  <a href="https://firebase.google.com/docs" title="Firebase" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40" alt="Firebase" /></a>
-  <a href="https://docs.docker.com/" title="Docker" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" alt="Docker" /></a>
-  <a href="https://git-scm.com/doc" title="Git" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git" /></a>
-  <a href="https://learning.postman.com/docs/" title="Postman" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40" alt="MySQL"/></a>
+  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="40" alt="SQLite"/></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40" alt="Firebase"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40" alt="Docker"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git"/></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="Postman"/></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" alt="Linux"/></a>
 </p>
 
 ### AI-Assisted Development
 
 <p align="left">
-  <a href="https://claude.ai/code" title="Claude Code" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="30" alt="Claude Code" /></a>
-  <a href="https://openai.com/codex/" title="OpenAI Codex" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="OpenAI Codex" /></a>
-  <a href="https://gemini.google.com/" title="Google Gemini" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="30" alt="Google Gemini" /></a>
-  <a href="https://github.com/features/copilot" title="GitHub Copilot" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub_Copilot-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white" height="30" alt="GitHub Copilot" /></a>
+  <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" height="30" alt="Claude Code"/></a>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="OpenAI Codex"/></a>
+  <a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" height="30" alt="Google Gemini"/></a>
+  <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white" height="30" alt="GitHub Copilot"/></a>
 </p>
 
 ---
 
-<!-- Profile: https://github.com/mostofa-rezvi -->
-
-
----
-
-###  GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| **Commit Streak** |
-| :---: |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-rezvi&theme=radical&border_radius=10" width="815px" /> |
+### Profile Overview
 
-| **Activity Overview** |
-| :---: |
-| <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa-rezvi&theme=react-dark&area=true&hide_border=true" width="815px" /> |
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostofa-rezvi&theme=github_dark" alt="GitHub Profile Summary"/>
+
+### GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostofa-rezvi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=percentile" alt="GitHub Statistics"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostofa-rezvi&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Most Used Languages"/>
+
+### Contribution Streak
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mostofa-rezvi&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
+
+### Contribution Activity Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mostofa-rezvi&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+
+### Contribution Calendar
+
+<img width="100%" src="https://ghchart.rshah.org/00D1FF/mostofa-rezvi" alt="GitHub Contribution Calendar"/>
+
+### Repository Language Statistics
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostofa-rezvi&theme=github_dark" alt="Languages by Repository"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mostofa-rezvi&theme=github_dark" alt="Most Committed Languages"/>
+
+### Contribution Performance
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mostofa-rezvi&theme=github_dark" alt="GitHub Statistics Summary"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostofa-rezvi&theme=github_dark&utcOffset=6" alt="Productive Time"/>
+
+### GitHub Achievements
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mostofa-rezvi&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-###  Design Credits
-This README was designed with ❤️ to showcase professional excellence. 
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostofa-rezvi&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Simplicity is the soul of efficiency." – Austin Freeman</i>
-</p>
+<a href="https://github.com/mostofa-rezvi/gym-membership-management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mostofa-rezvi&repo=gym-membership-management&theme=github_dark&hide_border=true" alt="Gym Membership Management"/>
+</a>
+
+</div>
+
+Explore more projects: [GitHub Repositories](https://github.com/mostofa-rezvi?tab=repositories)
+
+---
+
+## 📈 Development Philosophy
+
+- Write clean, maintainable, and readable code.
+- Build applications around real-world problems.
+- Prioritize performance, scalability, and reliability.
+- Keep learning and exploring modern engineering practices.
+- Use AI tools responsibly while maintaining technical understanding and ownership.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mostofa-aminur">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mostofa.aminur.rezvi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+<a href="https://youtube.com/@MostofaRezvi316">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=mostofa-rezvi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
+### 💡 Developer Quote
+
+*"Simplicity is the soul of efficiency."* — Austin Freeman
+
+**Thanks for visiting my profile!**
+
+</div>
+
+<!-- Profile: https://github.com/mostofa-rezvi --> 
