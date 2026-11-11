@@ -195,10 +195,6 @@ I care about maintainable code, clear separation of concerns, reliable data flow
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mostofa-rezvi&theme=github_dark&utcOffset=6" alt="Productive Time"/>
 
-### 🏆 GitHub Achievements
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mostofa-rezvi&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
 </div>
 
 ---
